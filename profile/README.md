@@ -40,12 +40,38 @@ The platform's functionality follows a specific flow:
 
 Nomad3 is more than an app; it's a comprehensive platform for web3 event enthusiasts to capture, share, and relive their experiences, fostering a community of connected, engaged participants in the evolving digital interaction landscape.
 
+## Features Utilisation 🌟
+
+### For Event Attendees
+As an Event Attendee, you can:
+- **Collect Event POPs**: Securely gather digital proofs of presence from Web3 events you attend.
+- **Review Event Histories**: Access a chronological display of both past and upcoming events, categorized by year.
+- **Create and Manage Your NFT Profile**: Utilize the ERC-6551 contract to develop and maintain a unique NFT that represents your event journey.
+- **Network and Connect**: View and manage connections made at various events, enhancing your networking experience.
+- **Access Photo Galleries**: Relive memories from events through a user-friendly photo gallery feature.
+
+### For Event Organizers
+As an Event Organizer, you can:
+- **List Your Event**: Make your event visible to a wide audience of Web3 enthusiasts.
+- **Interact with Attendees**: Engage with participants, collect feedback, and provide updates on future events.
+- **Monitor Event POPs**: Track the distribution and collection of POPs by attendees, ensuring a seamless experience.
+
+**Note**: Every interaction and connection made on the app will contribute to the user's profile, enriching their Web3 event journey.
+
 ## The Stack ⚙️
 
 **Deployments** 🌳
-Live Demo
-Smart Contracts
+- **Package-Manager**: Node Package Manager (NPM)
+- **Smart Contract Development**: 
+- **Deploy**:
+- **Network**: 
+- **Frontend**: Developed using Next.js for a robust and responsive user interface.
+- **Contract Interactions**:
+- **Styling**: Implemented using tailwindcss for a sleek and modern design.
 
+Live Demo
+
+Smart Contracts
 
 **(ERC6551 Registry)**  https://testnet.vicscan.xyz/address/0xBAF8DD01C6f1AFbFae4FADc4800c182387cf9962
 
@@ -56,5 +82,11 @@ Smart Contracts
 **(Nomad3)** https://testnet.vicscan.xyz/address/0xC27ef22b7c0CD3c0296DBa772987b142a71Eff48
 
 **(Token Bound Accounts)** https://testnet.vicscan.xyz/address/0x75dFC61417A32224196ccE4e0CB2081CCFa843A2
+
+
+
+
+
+
 
 
