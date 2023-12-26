@@ -5,7 +5,7 @@
 
 
 ## Intro 👋
-What is Nomad3?  
+What is **Nomad3**?  
 ![Dancing Monkey](https://drive.google.com/uc?export=view&id=12V8hjGPMa-qIjqzry0kscsRz1X44TTXU)  
 Nomad3 is a platform that lets event nomads forge meaningful memorable connections. It's designed for enthusiasts of web3 events and conferences, enabling them to authenticate their attendance, manage event interactions, and create lasting memories on the blockchain.
 
@@ -30,7 +30,7 @@ Nomad3 distinguishes itself with several innovative features:
 
 - **IPFS-Enabled Photo Sharing**: Users can upload pictures from events, which are stored as IPFS hashes, ensuring a decentralized and permanent storage solution. This feature allows users to revisit and cherish their event memories securely and reliably.
 
-## How It's Made 
+## How It's Made 🦿
 The platform's functionality follows a specific flow:
 
 1. **Event Registration by Organizers**: Organizers register events in the Nomad3Drops contract, receiving an eventID.
