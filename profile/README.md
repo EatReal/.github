@@ -1,8 +1,6 @@
 ## Nomad3 - The Event Attendance and Networking platform
 
-# Nomad3 - (link)
--Link-
-
+# [Nomad3](https://nomad3.vercel.app)
 
 ## Intro 👋
 What is **Nomad3**?  
@@ -61,32 +59,21 @@ As an Event Organizer, you can:
 ## The Stack ⚙️
 
 **Deployments** 🌳
-- **Package-Manager**: Node Package Manager (NPM)
-- **Smart Contract Development**: 
-- **Deploy**:
-- **Network**: 
-- **Frontend**: Developed using Next.js for a robust and responsive user interface.
-- **Contract Interactions**:
-- **Styling**: Implemented using tailwindcss for a sleek and modern design.
-
-Live Demo
+- **Package-Manager**: `Node Package Manager (NPM)`
+- **Smart Contract Development**: `foundry` `remix` 
+- **Network**: `viction`
+- **Frontend**: Developed using `Next.js` for a robust and responsive user interface.
+- **Contract Interactions**: `thirdweb`
+- **Styling**: Implemented using `tailwindcss` for a sleek and modern design.
 
 Smart Contracts
 
-**(ERC6551 Registry)**  https://testnet.vicscan.xyz/address/0xBAF8DD01C6f1AFbFae4FADc4800c182387cf9962
+**[ERC6551 Registry](https://testnet.vicscan.xyz/address/0xBAF8DD01C6f1AFbFae4FADc4800c182387cf9962)**  
 
-**(ERC6551 Account)** https://testnet.vicscan.xyz/address/0x87FE9a73d69da217895110Ecbbe363B51a78FAAA
+**[ERC6551 Account](https://testnet.vicscan.xyz/address/0x87FE9a73d69da217895110Ecbbe363B51a78FAAA)** 
 
-**(Nomad3Drops)** https://testnet.vicscan.xyz/address/0xbc97C3c3a9c9C020B6a573bf5993ab751330F1b6
+**[Nomad3Drops](https://testnet.vicscan.xyz/address/0xbc97C3c3a9c9C020B6a573bf5993ab751330F1b6)** 
 
-**(Nomad3)** https://testnet.vicscan.xyz/address/0xC27ef22b7c0CD3c0296DBa772987b142a71Eff48
+**[Nomad3](https://testnet.vicscan.xyz/address/0xC27ef22b7c0CD3c0296DBa772987b142a71Eff48)** 
 
-**(Token Bound Accounts)** https://testnet.vicscan.xyz/address/0x75dFC61417A32224196ccE4e0CB2081CCFa843A2
-
-
-
-
-
-
-
-
+**[Sample Token Bound Account](https://testnet.vicscan.xyz/address/0x75dFC61417A32224196ccE4e0CB2081CCFa843A2)** 
