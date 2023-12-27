@@ -1,11 +1,11 @@
-## Nomad3 - The Event Attendance and Networking platform
-
 # [Nomad3](https://nomad3.vercel.app)
+⛓️ Chaining your memories together ⛓️
 
-## Intro 👋
-What is **Nomad3**?  
-![Dancing Monkey](https://drive.google.com/uc?export=view&id=12V8hjGPMa-qIjqzry0kscsRz1X44TTXU)  
-Nomad3 is a platform that lets event nomads forge meaningful memorable connections. It's designed for enthusiasts of web3 events and conferences, enabling them to authenticate their attendance, manage event interactions, and create lasting memories on the blockchain.
+## What is **Nomad3**? 🤔
+ 
+![Dancing Monkey](https://drive.google.com/uc?export=view&id=12V8hjGPMa-qIjqzry0kscsRz1X44TTXU) 
+<br /><br />
+Nomad3 is a platform that lets event nomads forge meaningful memorable connections. It's designed for enthusiasts of web3 events and conferences, enabling them to authenticate their attendance, manage event interactions, and create lasting memories on the blockchain. 
 
 
 ## Project Description 📔
@@ -18,9 +18,9 @@ Nomad3 aims to transform the web3 event experience. It offers a unique platform 
 ### ✔️✔️ Unique Value Proposition ✔️✔️
 Nomad3 distinguishes itself with several innovative features:
 
-- **Seamless Wallet Connectivity**: Facilitates user authentication and interaction through wallet address connections, offering a streamlined user experience.
+- **Seamless Wallet Connectivity**: Facilitates user authentication and interaction through embedded wallet address connections, offering a streamlined user experience and removing the need for private keys and long seed phrases.
 
-- **Token-Bound Account (TBA) Deployment**: Upon claiming an event NFT, a TBA is automatically deployed for each user. This account acts as a personal hub for managing event-related activities, including adding new connections and uploading pictures.
+- **ERC-6551 Token-Bound Account (TBA) Deployment**: Upon claiming an event NFT, a TBA is automatically deployed for each user. This account acts as a personal hub for managing event-related activities, including adding new connections and uploading pictures.
 
 - **Personalized NFT Profiles**: Each user's event journey is captured and represented as a unique NFT profile, created using the ERC-6551 contract, providing a verifiable and personal record of their event experiences.
 
