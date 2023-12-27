@@ -65,7 +65,7 @@ As an Event Organizer, you can:
 - **Contract Interactions**: `thirdweb`
 - **Styling**: Implemented using `tailwindcss` for a sleek and modern design.
 
-## Smart Contracts Deployments 🌳
+## Smart Contract Deployments 🌳
 
 **[ERC6551 Registry](https://testnet.vicscan.xyz/address/0xBAF8DD01C6f1AFbFae4FADc4800c182387cf9962)**  
 
