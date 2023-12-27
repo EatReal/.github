@@ -42,7 +42,7 @@ Nomad3 is more than an app; it's a comprehensive platform for web3 event enthusi
 
 ### For Event Attendees
 As an Event Attendee, you can:
-- **Collect Event POPs**: Securely gather digital proofs of presence from Web3 events you attend.
+- **Collect Event Proof of Attendance NFTs**: Securely gather digital proofs of presence from Web3 events you attend.
 - **Review Event Histories**: Access a chronological display of both past and upcoming events, categorized by year.
 - **Create and Manage Your NFT Profile**: Utilize the ERC-6551 contract to develop and maintain a unique NFT that represents your event journey.
 - **Network and Connect**: View and manage connections made at various events, enhancing your networking experience.
@@ -52,13 +52,13 @@ As an Event Attendee, you can:
 As an Event Organizer, you can:
 - **List Your Event**: Make your event visible to a wide audience of Web3 enthusiasts.
 - **Interact with Attendees**: Engage with participants, collect feedback, and provide updates on future events.
-- **Monitor Event POPs**: Track the distribution and collection of POPs by attendees, ensuring a seamless experience.
+- **Monitor Event Proof of Attendance NFTs**: Track the distribution and collection of NFTs by attendees, ensuring a seamless experience.
 
 **Note**: Every interaction and connection made on the app will contribute to the user's profile, enriching their Web3 event journey.
 
 ## The Stack ⚙️
 
-- **Package-Manager**: `Node Package Manager (NPM)`
+- **Package-Manager**: `Node Package Manager (NPM)` `yarn`
 - **Smart Contract Development**: `foundry` `remix` 
 - **Network**: `viction`
 - **Frontend**: Developed using `Next.js` for a robust and responsive user interface.
