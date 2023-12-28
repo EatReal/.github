@@ -76,3 +76,7 @@ As an Event Organizer, you can:
 **[Nomad3](https://testnet.vicscan.xyz/address/0xC27ef22b7c0CD3c0296DBa772987b142a71Eff48)** 
 
 **[Sample Token Bound Account](https://testnet.vicscan.xyz/address/0x75dFC61417A32224196ccE4e0CB2081CCFa843A2)** 
+
+## How to Nomad3 ？ 📖
+1. **Click "Start Nomading" then click "Embedded Wallet" and Sign in with Google/Apple/Facebook
+2. **When you enter to the Main Page, create a new year card in the "Enter Year".
